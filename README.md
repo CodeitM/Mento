@@ -1,2 +1,26 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 # Mento
-Mento is an application which aims to connect mentors of personal skills with students of the same interests. 
+=======
+=======
+>>>>>>> 00c28d212e33900fd30482163ddee24086d01f49
+# mentoapp
+
+An application wich connectes mentors and students of certain special skills
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+<<<<<<< HEAD
+>>>>>>> 00c28d2 (Mentor profile done)
+=======
+>>>>>>> 00c28d212e33900fd30482163ddee24086d01f49
