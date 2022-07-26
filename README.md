@@ -1,7 +1,7 @@
 
 # Mento
 
-# mentoapp
+
 
 An application wich connectes mentors and students of certain special skills
 
