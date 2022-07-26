@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # Mento
-=======
-=======
->>>>>>> 00c28d212e33900fd30482163ddee24086d01f49
+
 # mentoapp
 
 An application wich connectes mentors and students of certain special skills
@@ -20,7 +17,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-<<<<<<< HEAD
->>>>>>> 00c28d2 (Mentor profile done)
-=======
->>>>>>> 00c28d212e33900fd30482163ddee24086d01f49
+
